@@ -1,4 +1,4 @@
-# WebRTC-Live-Stream-master-ios
+# WOJOLive
 ## Install
 1. `npm install`
 2. `node app.js`
